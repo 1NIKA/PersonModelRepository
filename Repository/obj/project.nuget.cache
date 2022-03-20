@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "OnXYeyWika5KhmWbdOCYymlUSDfcM/PZdbz/QFBPHx8xDfybh8ulZhCRjFSVU/ECpeF+NSrcPZJn6rIT9AwF8A==",
+  "success": true,
+  "projectFilePath": "/Users/nikakldiashvili/Documents/C#/PersonsSolution/Repository/Repository.csproj",
+  "expectedPackageFiles": [
+    "/Users/nikakldiashvili/.nuget/packages/microsoft.aspnetcore.http.features/2.2.0/microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "/Users/nikakldiashvili/.nuget/packages/microsoft.entityframeworkcore/7.0.0-preview.2.22153.1/microsoft.entityframeworkcore.7.0.0-preview.2.22153.1.nupkg.sha512",
+    "/Users/nikakldiashvili/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.0-preview.2.22153.1/microsoft.entityframeworkcore.abstractions.7.0.0-preview.2.22153.1.nupkg.sha512",
+    "/Users/nikakldiashvili/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.0-preview.2.22153.1/microsoft.entityframeworkcore.analyzers.7.0.0-preview.2.22153.1.nupkg.sha512",
+    "/Users/nikakldiashvili/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0-preview.2.22152.2/microsoft.extensions.caching.abstractions.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "/Users/nikakldiashvili/.nuget/packages/microsoft.extensions.caching.memory/7.0.0-preview.2.22152.2/microsoft.extensions.caching.memory.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "/Users/nikakldiashvili/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0-preview.2.22152.2/microsoft.extensions.dependencyinjection.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "/Users/nikakldiashvili/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0-preview.2.22152.2/microsoft.extensions.dependencyinjection.abstractions.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "/Users/nikakldiashvili/.nuget/packages/microsoft.extensions.logging/7.0.0-preview.2.22152.2/microsoft.extensions.logging.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "/Users/nikakldiashvili/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0-preview.2.22152.2/microsoft.extensions.logging.abstractions.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "/Users/nikakldiashvili/.nuget/packages/microsoft.extensions.options/7.0.0-preview.2.22152.2/microsoft.extensions.options.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "/Users/nikakldiashvili/.nuget/packages/microsoft.extensions.primitives/7.0.0-preview.2.22152.2/microsoft.extensions.primitives.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "/Users/nikakldiashvili/.nuget/packages/system.collections.immutable/7.0.0-preview.2.22152.2/system.collections.immutable.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "/Users/nikakldiashvili/.nuget/packages/system.diagnostics.diagnosticsource/7.0.0-preview.2.22152.2/system.diagnostics.diagnosticsource.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "/Users/nikakldiashvili/.nuget/packages/system.runtime.compilerservices.unsafe/7.0.0-preview.2.22152.2/system.runtime.compilerservices.unsafe.7.0.0-preview.2.22152.2.nupkg.sha512"
+  ],
+  "logs": []
+}

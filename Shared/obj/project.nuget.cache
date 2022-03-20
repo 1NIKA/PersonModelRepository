@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "boZ+93FsgRf9vqI05gHpTNh6Y13OB67y0mMGXokdIscuNSyx+5tSQKfeCzbGHbMRfX11SpCifSqo8ANWJSV/7Q==",
+  "success": true,
+  "projectFilePath": "/Users/nikakldiashvili/Documents/C#/PersonsSolution/Shared/Shared.csproj",
+  "expectedPackageFiles": [
+    "/Users/nikakldiashvili/.nuget/packages/microsoft.aspnetcore.http.features/2.2.0/microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "/Users/nikakldiashvili/.nuget/packages/microsoft.extensions.primitives/2.2.0/microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "/Users/nikakldiashvili/.nuget/packages/system.memory/4.5.1/system.memory.4.5.1.nupkg.sha512",
+    "/Users/nikakldiashvili/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.1/system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

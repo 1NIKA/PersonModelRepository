@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "r++UzCWUChjz0WjYPisQA9PJMdCzFZqkLp4iVC52/5C8LU3/cTIc76G1pQSHpH5RWeiz8AHIlRJTUIOVU25ILw==",
+  "success": true,
+  "projectFilePath": "/Users/nikakldiashvili/Documents/C#/PersonsSolution/Service/Service.csproj",
+  "expectedPackageFiles": [
+    "/Users/nikakldiashvili/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
+    "/Users/nikakldiashvili/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "/Users/nikakldiashvili/.nuget/packages/microsoft.aspnetcore.http.features/2.2.0/microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "/Users/nikakldiashvili/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/nikakldiashvili/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/nikakldiashvili/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/nikakldiashvili/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/nikakldiashvili/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,242 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nikakldiashvili/Documents/C#/PersonsSolution/Repository/Repository.csproj": {}
+  },
+  "projects": {
+    "/Users/nikakldiashvili/Documents/C#/PersonsSolution/Contracts/Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nikakldiashvili/Documents/C#/PersonsSolution/Contracts/Contracts.csproj",
+        "projectName": "Contracts",
+        "projectPath": "/Users/nikakldiashvili/Documents/C#/PersonsSolution/Contracts/Contracts.csproj",
+        "packagesPath": "/Users/nikakldiashvili/.nuget/packages/",
+        "outputPath": "/Users/nikakldiashvili/Documents/C#/PersonsSolution/Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nikakldiashvili/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/nikakldiashvili/Documents/C#/PersonsSolution/Entities/Entities.csproj": {
+                "projectPath": "/Users/nikakldiashvili/Documents/C#/PersonsSolution/Entities/Entities.csproj"
+              },
+              "/Users/nikakldiashvili/Documents/C#/PersonsSolution/Shared/Shared.csproj": {
+                "projectPath": "/Users/nikakldiashvili/Documents/C#/PersonsSolution/Shared/Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nikakldiashvili/Documents/C#/PersonsSolution/Entities/Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nikakldiashvili/Documents/C#/PersonsSolution/Entities/Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "/Users/nikakldiashvili/Documents/C#/PersonsSolution/Entities/Entities.csproj",
+        "packagesPath": "/Users/nikakldiashvili/.nuget/packages/",
+        "outputPath": "/Users/nikakldiashvili/Documents/C#/PersonsSolution/Entities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nikakldiashvili/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nikakldiashvili/Documents/C#/PersonsSolution/Repository/Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nikakldiashvili/Documents/C#/PersonsSolution/Repository/Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "/Users/nikakldiashvili/Documents/C#/PersonsSolution/Repository/Repository.csproj",
+        "packagesPath": "/Users/nikakldiashvili/.nuget/packages/",
+        "outputPath": "/Users/nikakldiashvili/Documents/C#/PersonsSolution/Repository/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nikakldiashvili/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/nikakldiashvili/Documents/C#/PersonsSolution/Contracts/Contracts.csproj": {
+                "projectPath": "/Users/nikakldiashvili/Documents/C#/PersonsSolution/Contracts/Contracts.csproj"
+              },
+              "/Users/nikakldiashvili/Documents/C#/PersonsSolution/Entities/Entities.csproj": {
+                "projectPath": "/Users/nikakldiashvili/Documents/C#/PersonsSolution/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0-preview.2.22153.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/nikakldiashvili/Documents/C#/PersonsSolution/Shared/Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nikakldiashvili/Documents/C#/PersonsSolution/Shared/Shared.csproj",
+        "projectName": "Shared",
+        "projectPath": "/Users/nikakldiashvili/Documents/C#/PersonsSolution/Shared/Shared.csproj",
+        "packagesPath": "/Users/nikakldiashvili/.nuget/packages/",
+        "outputPath": "/Users/nikakldiashvili/Documents/C#/PersonsSolution/Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nikakldiashvili/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
